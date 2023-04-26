@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.card-container {
+  display: flex;
+}
+.description {
+  color: #64748b;
+  font-size: 15px;
+  font-family: 'Roboto';
+  align-self: flex-start;
+}
+.img {
+  height: 20px;
+  margin-top: 18px;
+}
+.card-sub-container {
+  display: flex;
+  justify-content: space-between;
+}
